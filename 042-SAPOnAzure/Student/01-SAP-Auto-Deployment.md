@@ -46,7 +46,7 @@ subscription_id: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 client_id: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 client_secret: "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 tenant_id: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx"
-Change in the Resource prefix section, change the "teamxx** XX to represent your team number. Eg. “team00” from step 1. Add Team number to the Resource group in the Resource Group section: Name: “saprg_ophk_teamXX” State: “new” Region: “westus2”
+Change in the Resource prefix section, change the "squadxx** XX to represent your team number. Eg. “squad00” from step 1. Add Team number to the Resource group in the Resource Group section: Name: “saprg_ophk_squadXX” State: “new” Region: “westus2”
 You can change the three-letter SAP system ID parameter, if desired. e.g. SAP_system_name: “S4P” Save the “main_inputs” file. Stay in the same directory.
 ```
 7. Generate runnable terraform scripts.
