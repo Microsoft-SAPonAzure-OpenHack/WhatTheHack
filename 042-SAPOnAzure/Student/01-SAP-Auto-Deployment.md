@@ -33,8 +33,8 @@ Write-output $password
 5. Login to the server as the named user `azureuser` and run the following commands (please remember to use the named user login `azureuser` instead of any other named user). _Coach will provide the package_url during the session._
 
 ```
-% mkdir TST200/
-% cd TST200/
+% mkdir TST200
+% cd TST200
 % wget "[package_url]" -O ophk.tar.gz
 % gzip -d ophk.tar.gz
 % tar xf ophk.tar
