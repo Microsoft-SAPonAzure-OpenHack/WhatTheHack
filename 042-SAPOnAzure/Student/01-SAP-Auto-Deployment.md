@@ -69,8 +69,6 @@ You can change the three-letter SAP system ID parameter, if desired. e.g. SAP_sy
 
 ```
 Putty.exe
-SAP GUI
-SAP HANA Studio
 SAP GUI 7.60: coach will provide the link
 HANA studio 2.0: coach will provide the link
 ```
