@@ -18,7 +18,7 @@ This will leverage Azure Monitor to unlock critical telemetry.  To do this, you 
 	- Hint: VM Insights can be enabled from the Virtual Machine panel in the Azure Portal. Also consider creating a Log Analytics workspace as a pre-requisite.
 - Deploy Azure Monitor for SAP Solutions from the Azure Portal.
 	- Hint: This should be done by searching "Azure Monitor for SAP" as a service on the Marketplace.
-- Create & configure OS, SAP HANA, & Netweaver providers.
+- Create & configure SAP HANA, & Netweaver providers. Note: Setting up of OS Provider is optional.
 	- Hint: The NetWeaver provider is in public preview.  Access the link below to access this provider.
 - Review availability of telemetry in the Log Analytics workspace.
 	- Hint: Select the Log Workspace that was used while enabling VM Insights and verify data is flowing in.
