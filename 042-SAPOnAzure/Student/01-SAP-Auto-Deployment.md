@@ -84,7 +84,7 @@ Note: this script does all the configs and then install a complete SAP system wh
 ## Success Criteria
 
 - Complete build of SAP S4H and SAP HANA database on Azure Cloud.
-- Successful Installation of SAP GUI and test logon to SAP Application Server
+- Successful Installation of SAP GUI and test logon to SAP Application Server.
 - Deploy SAP S/4 hana system using the available automation script in resourses folder.
 - Verify all the resources deployed and be familiarize yourself.
 
